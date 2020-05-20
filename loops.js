@@ -4,5 +4,3 @@ function forLoop(array){
 }
 return [array i]
 }
-
-
