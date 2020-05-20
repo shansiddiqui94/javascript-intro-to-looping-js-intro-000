@@ -6,7 +6,6 @@ return [array, i]
 }
 
 function whileLoop(n){
-  let n = 10
   while (n > 0) {
     n-=1
     }
