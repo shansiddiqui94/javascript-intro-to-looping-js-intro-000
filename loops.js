@@ -6,7 +6,8 @@ return [array, i]
 }
 
 function whileLoop(n){
-  while (n > 0) {
+  var done = 0
+  while (n > done) {
     n-=1
     }
   return n
